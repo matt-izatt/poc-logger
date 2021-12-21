@@ -1,0 +1,19 @@
+{
+  "name": "poc-logger",
+  "version": "0.1.0",
+  "description": "Winston logger with cloudwatch, file and console transports",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "winston",
+    "logger"
+  ],
+  "author": "Matt Izatt <matt.izatt@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
+}
